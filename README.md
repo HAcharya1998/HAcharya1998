@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Homnath👋
 
 <!--i'm Homnath Acharya
 **HAcharya1998/HAcharya1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
